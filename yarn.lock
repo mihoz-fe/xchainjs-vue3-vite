@@ -155,17 +155,17 @@
   resolved "https://registry.yarnpkg.com/@cosmjs/utils/-/utils-0.31.3.tgz#f97bbfda35ad69e80cd5c7fe0a270cbda16db1ed"
   integrity sha512-VBhAgzrrYdIe0O5IbKRqwszbQa7ZyQLx9nEQuHQ3HUplQW7P44COG/ye2n6AzCudtqxmwdX7nyX8ta1J07GoqA==
 
-"@cosmos-client/core@^0.47.4":
-  version "0.47.4"
-  resolved "https://registry.yarnpkg.com/@cosmos-client/core/-/core-0.47.4.tgz#ba95e70d6833581bb1611a26474a4b14a3273fd9"
-  integrity sha512-20+w5nTOlwWjhRcTB3feay2H6ZV/kXl9eovXCmUMxuNHgrsg2K5HNgMBAScRe7d9EoNBTpIZia57qTnRVeo9qQ==
+"@cosmos-client/core@^0.46.1":
+  version "0.46.1"
+  resolved "https://registry.yarnpkg.com/@cosmos-client/core/-/core-0.46.1.tgz#63738da4c6506c6606f9ae23be7b6e2545d51418"
+  integrity sha512-IWoFCioVKV9ukAk1GE+LXdn67jSHDjn7+S9KE6ysQqvUIOo332RgoOOK8IlJG4nhQuyfdSS7YZjPAVGZn+WhQw==
   dependencies:
     axios "^0.23.0"
     bech32 "^1.1.4"
     bip32 "^2.0.6"
     bip39 "^3.0.4"
     process "^0.11.10"
-    protobufjs "^6.11.3"
+    protobufjs "^6.11.2"
     rxjs "^7.4.0"
     secp256k1 "^4.0.2"
     tweetnacl "^1.0.3"
@@ -2491,7 +2491,7 @@ process@^0.11.10:
   resolved "https://registry.yarnpkg.com/process/-/process-0.11.10.tgz#7332300e840161bda3e69a1d1d91a7d4bc16f182"
   integrity sha512-cdGef/drWFoydD1JsMzuFf8100nZl+GT+yacc2bEced5f9Rjk4z+WtFUTBu9PhOi9j/jfmBPu0mMEY4wIdAF8A==
 
-protobufjs@^6.11.3, protobufjs@^6.8.8, protobufjs@~6.11.2, protobufjs@~6.11.3:
+protobufjs@^6.11.2, protobufjs@^6.8.8, protobufjs@~6.11.2, protobufjs@~6.11.3:
   version "6.11.4"
   resolved "https://registry.yarnpkg.com/protobufjs/-/protobufjs-6.11.4.tgz#29a412c38bf70d89e537b6d02d904a6f448173aa"
   integrity sha512-5kQWPaJHi1WoCpjTGszzQ32PG2F4+wRY6BmAT4Vfw56Q2FZ4YZzK20xUYQH4YkfehY1e6QSICrJquM6xXZNcrw==
